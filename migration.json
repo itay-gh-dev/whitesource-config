@@ -1,7 +1,0 @@
-{
-	"migrationMode": {
-		"changeType": "inheritance",
-		"openPR": false
-	},
-	"includeRepos": ["itay-gh-dev/test2"]
-}

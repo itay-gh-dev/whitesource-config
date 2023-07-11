@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "baseBranches": [],
-    "enableIac" : "true"
+    "enableIaC" : "true"
   },
   "scanSettingsSAST": {
     "enableScan": false,

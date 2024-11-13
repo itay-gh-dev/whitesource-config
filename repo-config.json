@@ -3,8 +3,7 @@
     "configMode": "LOCAL",
     "configExternalURL": "",
     "baseBranches": [],
-    "enableIaC" : "true",
-    "uaConfigMergeSetting": "APPEND"
+    "enableIaC" : "true"
   },
   "scanSettingsSAST": {
     "enableScan": false,
